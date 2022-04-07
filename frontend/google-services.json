@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "270075909384",
+    "project_id": "grupeers-6057c",
+    "storage_bucket": "grupeers-6057c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270075909384:android:983dd76c0b07a0828188bd",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270075909384-auhs05348uu7i3asg5iakdtlkul1oi36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPZ-hP4C93yG-tfPJU1fi0WZVTWmUHng8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270075909384-auhs05348uu7i3asg5iakdtlkul1oi36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270075909384-33hf34akgtknikkbtg22hvcrv1qjg1gl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
